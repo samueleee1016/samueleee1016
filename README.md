@@ -17,7 +17,7 @@ Passionate about building real-time applications and scalable web solutions.
 
 ### 📫 Contact
 
-* **Email:** [tua.email@esempio.com](mailto:tua.email@esempio.com)
+* **Email:** [samuele.mastrovincenzo@gmail.com](mailto:tua.samuele.mastrovincenzo@gmail.com)
 
 ---
 
