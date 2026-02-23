@@ -1,4 +1,4 @@
-# Hi, I'm [Il Tuo Nome] 👋
+# Hi, I'm Samuele 👋
 
 ### 🚀 17-year-old Full-Stack Developer
 Passionate about building real-time applications and scalable web solutions.
